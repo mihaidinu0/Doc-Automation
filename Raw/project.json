@@ -1,0 +1,87 @@
+{
+  "name": "PDF Splitter X",
+  "description": "Blank Task",
+  "main": "Gmail Downloader.xaml",
+  "dependencies": {
+    "UiPath.ComplexScenarios.Activities": "[1.1.6]",
+    "UiPath.Excel.Activities": "[2.12.3]",
+    "UiPath.Mail.Activities": "[1.15.2]",
+    "UiPath.Presentations.Activities": "[1.3.4]",
+    "UiPath.System.Activities": "[22.4.4]",
+    "UiPath.UIAutomation.Activities": "[22.4.7]",
+    "UiPath.Word.Activities": "[1.10.1]",
+    "UiPathTeam.Split.a.PDF.File": "[1.0.9]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.4.4.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalHandlerX.xaml",
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Business",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "97394ff2-787f-4a67-8258-28962834684a",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Main2.xaml",
+      "uniqueId": "288d9f10-4fca-48bc-bb94-c8415eb1eeef",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Scoate caziere (pag 4-5).xaml",
+      "uniqueId": "a737c2f3-a7f4-4067-9d3a-81f6ebabccf4",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "REMOVE SECOND PAGE.xaml",
+      "uniqueId": "0a084673-cad0-4500-90fc-ef6658de29f1",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Gmail Downloader.xaml",
+      "uniqueId": "7cd3ae67-bcd0-4ed8-8307-5ed393fd7ddd",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
