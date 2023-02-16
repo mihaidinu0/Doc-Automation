@@ -1,4 +1,4 @@
-![Header](assets/banner.png)
+![Header](assets/logo.png)
 
 # Recruiting Documents Automation
 This project is a collaboration between the author and a law office from Bucharest, that was successful in automating the document processing for the recruiting of over 1000 people in Romania. The project was carried out between August and October 2022, and was aimed at drastically reducing the time required for the document processing.
